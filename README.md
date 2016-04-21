@@ -4,7 +4,7 @@ Phan is a static analyzer for PHP.
 
 # Features
 
-* Checks for all methods, functions, classes, traits, interfaces, constants, properties and variables to be defined and accessible.
+* Checks for all methods, functions, classes, traits, interfaces, constants, properties and variables to be defined and accessible. 
 * Checks for type safety and arity issues on method/function/closure calls.
 * Checks for PHP7/PHP5 backward compatibility
 * Checks for sanity with array accesses
